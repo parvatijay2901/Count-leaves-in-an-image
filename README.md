@@ -27,5 +27,17 @@ Accuracy of detection depends on the image. You will have to change some values 
 - For slight overlapping of leaves, this algorithm works fine, but for large overlapping, this technique might not work as cv2.findContours() draw joint contours on overlapping objects. 
 - In all other cases, the method works well when the image is placed on a less noisy background. 
 
+## References:
+### Code References:
+- [OpenCV Python Documentation](https://buildmedia.readthedocs.org/media/pdf/opencv24-python-tutorials/latest/opencv24-python-tutorials.pdf)
+- [Gaussian Blur](https://appdividend.com/2020/09/19/python-cv2-filtering-image-using-gaussianblur-method/)
+- [Threshold](https://www.datasciencelearner.com/cv2-threshold-method-implementation-python/#:~:text=Steps%20to%20Implement%20cv2%20threshold%20in%20python%20Step,convert%20the%20color%20image%20into%20the%20grey%20image.)
+- [Contours](https://docs.opencv.org/4.5.3/d4/d73/tutorial_py_contours_begin.html)
+
+### Image References:
+- [img_1.jpg]()
+- [img_2.jpg]()
+- [img_3.jpg]()
+- [img_4.jpg]()
 
 
