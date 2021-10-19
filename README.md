@@ -21,7 +21,7 @@ Accuracy of detection depends on the image. You will have to change some values 
 <img src="https://user-images.githubusercontent.com/51737416/137850361-c87a3dd0-e2f9-4bc5-b61e-c555f151cb59.png" width=60% height=60%>
 
 ## Observations:
-**By observing the contours drawn on the leaves, **
+**By observing the contours drawn on the leaves,**
 - We will have to make some modifications to the values depending on the size of leaves present on the image. 
 - Colour gradient changes in leaves can be an issue to detect the contours. 
 - For slight overlapping of leaves, this algorithm works fine, but for large overlapping, this technique might not work as cv2.findContours() draw joint contours on overlapping objects. 
