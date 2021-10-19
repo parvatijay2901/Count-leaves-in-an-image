@@ -35,9 +35,9 @@ Accuracy of detection depends on the image. You will have to change some values 
 - [Contours](https://docs.opencv.org/4.5.3/d4/d73/tutorial_py_contours_begin.html)
 
 ### Image References:
-- [img_1.jpg]()
-- [img_2.jpg]()
-- [img_3.jpg]()
-- [img_4.jpg]()
+- [img_1.jpg](https://pt.dreamstime.com/fotos-de-stock-royalty-free-ramifique-com-as-folhas-verdes-isoladas-no-branco-image5984928)
+- [img_2.jpg](https://thumbs.dreamstime.com/z/branch-green-leaves-6614593.jpg)
+- [img_3.jpg](https://thumb9.shutterstock.com/image-photo/stock-photo-tea-green-leaves-watercolor-closeup-isolated-on-white-background-hand-painting-on-paper-450w-488815282.jpg)
+- [img_4.jpg](https://www.absolutvision.com/files/preview/1280x966/11532319742d3djbuh8xhgaooi6h8jyarvqa1hhncmhtzwipyi7jwbztama3lm6eymsdk5j7udjrhdqyrouo8q2vsskzvm2amvf8ximqh5mxeex.jpg)
 
 
